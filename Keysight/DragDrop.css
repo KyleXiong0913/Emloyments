@@ -1,0 +1,30 @@
+.form-textbox {
+
+height: 25px !important;
+
+width: 220px !important;
+
+font-size: 14px !important;
+
+}
+
+.dropzone {
+  height: 100px;
+  width: 500px;
+  border: 2px solid black;
+}
+
+.butt {
+  position: relative;
+  left:10px; top:0px;
+  float: center;
+  margin-left: center;
+}
+
+.attached {
+  float: center;
+  left: 1px;
+  top:1px;
+  border: 2px;
+  border-color: black;
+}
